@@ -29,7 +29,7 @@
 
 ---
 
-## 📊 GitHub статистика
+## 📊
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZavrazhinMA&layout=compact&hide_title=true" height="150" alt="Top Languages"/>
