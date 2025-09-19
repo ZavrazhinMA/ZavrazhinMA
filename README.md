@@ -1,7 +1,7 @@
-## 🔹 NLP / LLM
+## 🔹 Основная специализация: NLP / LLM
 
 <p align="left">
-  <!-- Основное -->
+  <!-- Базовый стек -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="46" height="46" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="46" height="46" alt="PyTorch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="46" height="46" alt="TensorFlow"/>
@@ -21,13 +21,19 @@
 
 ## 📊 GitHub статистика
 
+<!-- График активности за год -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZavrazhinMA&show_icons=true&hide_title=true&hide=stars,issues,prs,contribs" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZavrazhinMA&layout=compact&hide_title=true" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZavrazhinMA&theme=github-compact&hide_border=false" alt="Activity Graph"/>
 </p>
 
+<!-- Streak (серии коммитов) -->
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=ZavrazhinMA&hide_border=false" height="150" alt="GitHub Streak"/>
+</p>
+
+<!-- Топ языков -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZavrazhinMA&layout=compact&hide_title=true" height="150" alt="Top Languages"/>
 </p>
 
 ---
@@ -52,7 +58,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="38" height="38" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="38" height="38" alt="scikit-learn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="38" height="38" alt="FastAPI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spark/spark-original.svg" width="38" height="38" alt="Apache Spark"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="38" height="38" alt="Apache Spark"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="38" height="38" alt="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="38" height="38" alt="MongoDB"/>
 </p>
