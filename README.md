@@ -32,7 +32,6 @@
 ## 📊 GitHub статистика
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=ZavrazhinMA&hide_border=false" height="150" alt="GitHub Streak"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZavrazhinMA&layout=compact&hide_title=true" height="150" alt="Top Languages"/>
 </p>
 
