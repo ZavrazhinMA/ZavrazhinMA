@@ -37,19 +37,6 @@
 
 ---
 
-## 📬 Контакты
-
-<p align="left">
-  <a href="https://t.me/Maksim_AZ">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://www.kaggle.com/maksimaz">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
-  </a>
-</p>
-
----
-
 ## ⚙️ Дополнительные навыки
 
 <p align="left">
@@ -68,4 +55,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="38" height="38" alt="Linux"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge" height="28" alt="MLflow"/>
   <img src="https://img.shields.io/badge/DVC-945dd6?style=for-the-badge" height="28" alt="DVC"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CV-1f2937?style=for-the-badge" alt="Computer Vision"/>
+  <img src="https://img.shields.io/badge/RecSys-1f2937?style=for-the-badge" alt="Recommender Systems"/>
+  <img src="https://img.shields.io/badge/RL-1f2937?style=for-the-badge" alt="Reinforcement Learning"/>
+</p>
+
+---
+
+## 📬 Контакты
+
+<p align="left">
+  <a href="https://t.me/Maksim_AZ">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://www.kaggle.com/maksimaz">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
 </p>
