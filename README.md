@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/spaCy-09a3d5?style=for-the-badge" alt="spaCy"/>
   <img src="https://img.shields.io/badge/NLTK-4b5563?style=for-the-badge" alt="NLTK"/>
   <img src="https://img.shields.io/badge/gensim-4b5563?style=for-the-badge" alt="gensim"/>
-  <img src="https://img.shields.io/badge/pymorphy2-4b5563?style=for-the-badge" alt="pymorphy2"/>
+  <img src="https://img.shields.io/badge/pymorphy2-4b5563?style=for-the-badge" alt="pymorphy3"/>
   <img src="https://img.shields.io/badge/PyTorch%20Lightning-792ee5?style=for-the-badge" alt="PyTorch Lightning"/>
   <img src="https://img.shields.io/badge/Keras-d00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge" alt="ONNX"/>
